@@ -1,4 +1,6 @@
-дополнительно см
+> npm install
+
+РїРѕ РјРѕС‚РёРІР°Рј
 https://medium.com/@danilosilvadev/webpack-react-redux-babel-config-in-10-minutes-4ad8c4abc8b2
 1)
 For dev build: 
@@ -8,6 +10,6 @@ And for prod mode:
 2)
 Add this at the body in index.html inside dist/build:
   <div id="root"></div>
-
-в итоге
+  
+РІ РёС‚РѕРіРµ
 >npm start
